@@ -1,5 +1,3 @@
-#Requires -RunAsAdministrator
-
 [CmdletBinding(SupportsShouldProcess)]
 param (
     [switch]$Silent,
