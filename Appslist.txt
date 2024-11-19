@@ -35,9 +35,9 @@ Microsoft.WindowsFeedbackHub
 Microsoft.WindowsMaps
 Microsoft.WindowsSoundRecorder
 Microsoft.XboxApp   # Old Xbox Console Companion App, no longer supported
-Microsoft.ZuneVideo
+# Microsoft.ZuneVideo # Removed by Stacy
 MicrosoftCorporationII.MicrosoftFamily   # Family Safety App
-MicrosoftCorporationII.QuickAssist
+# MicrosoftCorporationII.QuickAssist # Removed by Stacy
 MicrosoftTeams   # Old MS Teams personal (MS Store)
 MSTeams   # New MS Teams app
 
